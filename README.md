@@ -2,7 +2,6 @@
 
 💻 **| Python | Django | PostgreSQL**
 📍 Vilhelmina, Sweden  
-📧 [nogin.pavlo@lll.kpi.ua](mailto:nogin.pavlo@lll.kpi.ua)  | [nohinpavlo@gmail.com](mailto:nogin.pavlo@lll.kpi.ua) 
 
 ---
 
