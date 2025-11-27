@@ -1,7 +1,7 @@
 ### Pavlo Shcherbak | Backend developer
 
 💻 **| Python | Django | PostgreSQL**
-📍 Vilhelmina, Sweden  
+📍 Umeå, Sweden  
 
 ---
 
